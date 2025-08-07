@@ -1,0 +1,59 @@
+.header{
+    width: auto;
+    height: 50px;
+    border: 1px solid;
+    padding: 10px;
+}
+
+.head{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar{
+    width: auto;
+    height: 30px;
+    border: 1px solid;
+}
+
+.navBtn{
+    width: 100px;
+    height: 30px;
+}
+
+.advCont{
+    width: auto;
+    height: 400px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+.prodDisp{
+    display: flex;
+}
+.products{
+    width: 200px;
+    height: 230px;
+    border: 1px solid;
+    border-radius: 10px;
+   padding: 10px;
+}
+
+.prodImg{
+    width: 200px;
+    height: 200px;
+    border: 1px solid;
+    border-radius: 10px;
+}
+.addCartBtn{
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.footer{
+    width: auto;
+    height: 50px;
+    border: 1px solid;
+    border-radius: 5px;
+}
