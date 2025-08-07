@@ -35,4 +35,17 @@ prevBtn.addEventListener('click',()=>{
     
 })
 
+let cart=document.querySelector('#cart')
+
+cart.addEventListener('click',()=>{
+    window.open('cart.html','_blank')
+})
+
+let cartProd1=document.querySelector('#cartProd1')
+cartProd1.addEventListener('click',()=>{
+    localStorage.setItem('image',cartProd1.src);
+})
+
+
+
 
